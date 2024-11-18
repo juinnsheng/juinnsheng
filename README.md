@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I am a biotechnology graduate, now trying to pick up various programming stacks, ML and AI. I am currently working on Computer Vision projects <br>🤝 I’m looking for help with image processing <br>🌱 I’m currently learning Pytorch and Tensorflow<br>
+🔭 I am a biotechnology graduate, now trying to pick up various programming stacks, ML and AI. I am currently working on Computer Vision projects <br>
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=juinnsheng&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
