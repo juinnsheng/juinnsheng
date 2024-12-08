@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a biotechnology graduate, now trying to pick up various programming stacks, ML and AI. I am currently working on Computer Vision projects <br>
+🔭 I am a biotechnology graduate, navigating into technology field. All code is pre-42 KL piscine <br>
 
 
 # 💻 Tech Stack:
