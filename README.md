@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a biotechnology graduate, navigating into technology field. All code is pre-42 KL piscine <br>
+🔭 I am a biotechnology graduate, navigating into technology field. <br>
 
 
 # 💻 Tech Stack:
